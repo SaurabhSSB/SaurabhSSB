@@ -1,8 +1,8 @@
-![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp)
+![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Image.webp)
 <h1 align="center">Hi 👋, I'm Saurabh Singh Bhandari</h1>
 <h3 align="center">A driven and confident data science student with a solid foundation in computer science, characterized by a strong sense of self-assurance, capability, and unwavering commitment to excellence in every endeavor</h3>
 
-<img align="right" alt="data Scientist" width="400" src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif">
+<img align="right" alt="data Scientist" width="400" src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhssb&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhssb" /> </p>
 
