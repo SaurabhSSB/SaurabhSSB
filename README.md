@@ -1,4 +1,4 @@
-![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/GitHub%20profile%20banner.png)
+![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Github%20Profile.jpg)
 <h1 align="center">Hi 👋, I'm Saurabh Singh Bhandari</h1>
 <h3 align="center">A driven and confident data science student with a solid foundation in computer science, characterized by a strong sense of self-assurance, capability, and unwavering commitment to excellence in every endeavor</h3>
 
