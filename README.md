@@ -1,4 +1,4 @@
-![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Image.webp)
+![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Professional.webp)
 <h1 align="center">Hi 👋, I'm Saurabh Singh Bhandari</h1>
 <h3 align="center">A driven and confident data science student with a solid foundation in computer science, characterized by a strong sense of self-assurance, capability, and unwavering commitment to excellence in every endeavor</h3>
 
