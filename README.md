@@ -38,17 +38,10 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt="R" width="40" height="40"/> </a></p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt=""R: A language and environment for statistical computing and graphics." width="40" height="40"/></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhssb&show_icons=true&locale=en&layout=compact" alt="saurabhssb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhssb&show_icons=true&locale=en" alt="saurabhssb" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhssb&" alt="saurabhssb" /></p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhssb&show_icons=true&locale=en&layout=compact" alt="saurabhssb" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhssb&show_icons=true&locale=en" alt="saurabhssb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhssb&" alt="saurabhssb" /></p>
-
