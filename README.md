@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhssb&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhssb" /> </p>
 
-- 🔭 I’m currently working on [Python Mastery Pathway](https://github.com/SaurabhSSB/Python-Mastery-Roadmap)
+- 🔭 I’m currently working on [Python Mastery Roadmap](https://github.com/SaurabhSSB/Python-Mastery-Roadmap)
 
 - 🌱 I’m currently learning **Data Science Fundamentals**
 
