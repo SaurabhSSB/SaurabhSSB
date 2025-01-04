@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **saurabhsinghbhandarissb@gmail.com**
 
-- 📇 Connect with me on LinkedIn [https://www.linkedin.com/in/saurabhsinghbhandarissb/](https://www.linkedin.com/in/saurabhsinghbhandarissb)
+- 📇 Connect with me on LinkedIn [https://www.linkedin.com/in/saurabhsinghbhandarissb](https://www.linkedin.com/in/saurabhsinghbhandarissb)
 
 - ⚡ Fun fact **I'm a firm believer that learning never stops—I'm always trying to improve my skills.**
 
