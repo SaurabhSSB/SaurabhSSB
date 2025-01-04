@@ -22,13 +22,13 @@
 
 - 📫 How to reach me **saurabhsinghbhandarissb@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/saurabhsinghbhandarissb/](https://www.linkedin.com/in/saurabhsinghbhandarissb/)
+- 📇 Connect with me on LinkedIn [https://www.linkedin.com/in/saurabhsinghbhandarissb/](https://www.linkedin.com/in/saurabhsinghbhandarissb/)
 
 - ⚡ Fun fact **I'm a firm believer that learning never stops—I'm always trying to improve my skills.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/saurabh_ssb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saurabh_ssb" height="30" width="40" /></a>
+<a href="https://x.com/saurabh_ssb" target="blank"><img align="center" src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Twitter_.avif" alt="saurabh_ssb" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/saurabhsinghbhandarissb" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saurabhsinghbhandarissb" height="30" width="40" /></a>
 <a href="https://kaggle.com/saurabhsinghbhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="saurabhsinghbhandari" height="30" width="40" /></a>
 <a href="https://fb.com/saurabh singh bhandari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="saurabh singh bhandari" height="30" width="40" /></a>
@@ -39,7 +39,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt=""R: A language and environment for statistical computing and graphics." width="40" height="40"/></p>
+<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/R/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt=""R: A language and environment for statistical computing and graphics." width="40" height="40"/></p>
 
 ![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Final.webp)
 
@@ -49,4 +49,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhssb&" alt="saurabhssb" /></p>
 
-![logo](![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Final.webp))
+![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp)
