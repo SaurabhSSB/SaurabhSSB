@@ -43,10 +43,15 @@
 
 ![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Final.webp)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhssb&show_icons=true&locale=en&layout=compact" alt="saurabhssb" /></p>
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhssb&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhssb&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhssb" alt="GitHub Streak" />
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhssb&show_icons=true&locale=en" alt="saurabhssb" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhssb&" alt="saurabhssb" /></p>
 
 ![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp)
