@@ -77,7 +77,8 @@
 ## **Watch this snake feeding on my contributions**
 
 <div align="center">
-  <img src="https://github.com/3th1K/3th1K/blob/output/github-snake-dark.svg" alt="snake gif"/>
+  <img src="https://raw.githubusercontent.com/SaurabhSSB/SaurabhSSB/refs/heads/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake gif"/>
+  <img src="https://github.com/SaurabhSSB/SaurabhSSB/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="snake gif"/>
 </div>
 
 <p align="center">
