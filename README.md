@@ -1,8 +1,12 @@
-![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Image.webp)
+<a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB">
+  <img src="https://raw.githubusercontent.com/SaurabhSSB/SaurabhSSB/main/Image.webp" alt="Logo">
+</a>
 <h1 align="center">Hi 👋, I'm Saurabh Singh Bhandari</h1>
 <h3 align="center">A driven and confident data science student with a solid foundation in computer science, characterized by a strong sense of self-assurance, capability, and unwavering commitment to excellence in every endeavor</h3>
 
-<img align="right" alt="data Scientist" width="400" src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Final%20(2).webp">
+<a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB">
+  <img align="right" alt="Data Scientist" width="400" src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Final%20(2).webp">
+</a>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=saurabhssb&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhssb" />
@@ -45,7 +49,8 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/R/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt=""R: A language and environment for statistical computing and graphics." width="40" height="40"/></p>
 
-![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Final.webp)
+[![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Final.webp)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB)
+
 <!--
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhssb&show_icons=true&locale=en&layout=compact&v=2" alt="Top Languages" />
@@ -72,7 +77,7 @@
 | [![SaurabhSSB's GitHub Streak](https://streak-stats.demolab.com?user=SaurabhSSB&theme=radical)](https://git.io/streak-stats) | ![SaurabhSSB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaurabhSSB&show_icons=true&theme=radical&rank_icon=github) |
 |-------------------------------------------------------|-----------------------------------|
 
-![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp)
+[![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB)
 
 ## **Watch the snake feeding on my contributions**
 
