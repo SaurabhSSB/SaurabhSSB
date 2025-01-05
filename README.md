@@ -22,7 +22,7 @@
 
 - 🔭 I’m currently working on [Foundations of Statistics with R](https://github.com/SaurabhSSB/Statistics-with-R)
 
-- 👨‍💻 All of my projects are available at [My Projects](https://linktr.ee/Saurabh_Singh_Bhandari_SSB)
+- 👨‍💻 All of my projects are available in [My Projects](https://linktr.ee/Saurabh_Singh_Bhandari_SSB)
 
 - 📝 I regularly write articles on [https://medium.com/@saurabhsinghbhandarissb](https://medium.com/@saurabhsinghbhandarissb)
 
