@@ -4,8 +4,8 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh Bhandari</h1>
 <h3 align="center">A driven and confident data science student with a solid foundation in computer science, characterized by a strong sense of self-assurance, capability, and unwavering commitment to excellence in every endeavor</h3>
 
-<a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB">
-  <img align="right" alt="Data Scientist" width="400" src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Final%20(2).webp">
+<a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB" target="_blank">
+  <img align="right" alt="Data Scientist" width="400" src="https://raw.githubusercontent.com/SaurabhSSB/SaurabhSSB/main/Final%20(2).webp">
 </a>
 
 <p align="left">
