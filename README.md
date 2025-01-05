@@ -79,7 +79,7 @@
 
 [![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB)
 
-## **Watch the snake feeding on my contributions**
+## **Contribution Trail**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SaurabhSSB/SaurabhSSB/refs/heads/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake gif"/>
