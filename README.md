@@ -42,7 +42,7 @@
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/R/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt=""R: A language and environment for statistical computing and graphics." width="40" height="40"/></p>
 
 ![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Final.webp)
-
+<!--
 <p>
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhssb&show_icons=true&locale=en&layout=compact&v=2" alt="Top Languages" />
 </p>
@@ -52,6 +52,25 @@
 <p>
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhssb&v=2" alt="GitHub Streak" />
 </p>
-
+-->
+<!--
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SaurabhSSB&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhSSB&theme=aura&hide_border=true" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSSB&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+</div>
+-->
+| <a href="https://somethinghitme.com"><img src="https://github.com/loktar00/loktar00/raw/master/profilebanner.gif" alt="loktar00" height="350px" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loktar00&layout=donut-vertical&theme=radical" height="350px"/> |
+[![SaurabhSSB's GitHub Streak](https://streak-stats.demolab.com?user=SaurabhSSB&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats) | ![SaurabhSSB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaurabhSSB&show_icons=true&theme=radical&rank_icon=github) |
 
 ![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp)
+
+## **Watch this snake feeding on my contributions**
+
+<div align="center">
+  <img src="https://github.com/3th1K/3th1K/blob/output/github-snake-dark.svg" alt="snake gif"/>
+</div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
