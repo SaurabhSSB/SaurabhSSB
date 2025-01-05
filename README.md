@@ -74,7 +74,7 @@
 
 ![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp)
 
-## **Watch this snake feeding on my contributions**
+## **Watch the snake feeding on my contributions**
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/SaurabhSSB/SaurabhSSB/refs/heads/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake gif"/>
