@@ -4,7 +4,11 @@
 
 <img align="right" alt="data Scientist" width="400" src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Final%20(2).webp">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhssb&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhssb" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=saurabhssb&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhssb" />
+  <img src="https://img.shields.io/github/stars/SaurabhSSB" alt="GHStars" />
+  <img src="https://img.shields.io/github/followers/SaurabhSSB" alt="Followers" />
+</p>
 
 - 🔭 I’m currently working on [Python Mastery Roadmap](https://github.com/SaurabhSSB/Python-Mastery-Roadmap)
 
@@ -60,8 +64,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSSB&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
 </div>
 -->
-| <a href="https://somethinghitme.com"><img src="https://github.com/loktar00/loktar00/raw/master/profilebanner.gif" alt="loktar00" height="350px" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=loktar00&layout=donut-vertical&theme=radical" height="350px"/> |
-[![SaurabhSSB's GitHub Streak](https://streak-stats.demolab.com?user=SaurabhSSB&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats) | ![SaurabhSSB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaurabhSSB&show_icons=true&theme=radical&rank_icon=github) |
+
+| <a href="https://somethinghitme.com"><img src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Professional.webp" alt="SaurabhSSB" height="350px" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSSB&layout=donut-vertical&theme=radical" height="350px"/> |
+|-------------------------------------------------------|-----------------------------------|
+
+
+| [![SaurabhSSB's GitHub Streak](https://streak-stats.demolab.com?user=SaurabhSSB&theme=radical&exclude_days=Sun%2CSat)](https://git.io/streak-stats) | ![SaurabhSSB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaurabhSSB&show_icons=true&theme=radical&rank_icon=github) |
+|-------------------------------------------------------|-----------------------------------|
 
 ![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp)
 
