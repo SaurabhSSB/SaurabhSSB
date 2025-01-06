@@ -74,7 +74,7 @@
 |-------------------------------------------------------|-----------------------------------|
 
 
-| [![SaurabhSSB's GitHub Streak](https://streak-stats.demolab.com?user=SaurabhSSB&theme=radical)](https://git.io/streak-stats) | ![SaurabhSSB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaurabhSSB&show_icons=true&theme=radical&rank_icon=github) |
+| [![SaurabhSSB's GitHub Streak](https://streak-stats.demolab.com?user=SaurabhSSB&theme=radical)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB) | ![SaurabhSSB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaurabhSSB&show_icons=true&theme=radical&rank_icon=github) |
 |-------------------------------------------------------|-----------------------------------|
 
 [![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB)
