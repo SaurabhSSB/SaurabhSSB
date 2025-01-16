@@ -67,6 +67,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=SaurabhSSB&theme=aura&hide_border=true&include_all_commits=true&count_private=true" width="55%" /> </br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SaurabhSSB&theme=aura&hide_border=true" width="50%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSSB&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
+  <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=btwgaurav" alt="btwgaurav" /></a> </p>
 </div>
 -->
 
