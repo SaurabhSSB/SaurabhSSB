@@ -71,7 +71,7 @@
 </div>
 -->
 
-| <a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB"><img src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Professional.webp" alt="SaurabhSSB" height="350px" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSSB&layout=donut-vertical&theme=radical&v=2" height="350px"/> |
+| <a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB"><img src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Professional.webp" alt="SaurabhSSB" height="350px" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSSB&layout=donut-vertical&theme=radical&v=1" height="350px"/> |
 |-------------------------------------------------------|-----------------------------------|
 
 
