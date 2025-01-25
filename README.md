@@ -34,6 +34,8 @@
 
 - ⚡ Fun fact **I'm a firm believer that learning never stops—I'm always trying to improve my skills.**
 
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SaurabhSSB&theme=github-compact&hide_border=true&area=true" />
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://x.com/saurabh_ssb" target="blank"><img align="center" src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Twitter_.avif" alt="saurabh_ssb" height="30" width="40" /></a>
@@ -48,9 +50,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.w3schools.com/R/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" alt=""R: A language and environment for statistical computing and graphics." width="40" height="40"/></p>
-
-
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SaurabhSSB&theme=github-compact&hide_border=true&area=true" />
 
 [![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Final.webp)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB)
 
