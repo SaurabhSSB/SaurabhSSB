@@ -34,7 +34,7 @@
 
 - ⚡ Fun fact **I'm a firm believer that learning never stops—I'm always trying to improve my skills.**
 
-<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SaurabhSSB&theme=github-compact&hide_border=true&area=true& v=1" />
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=SaurabhSSB&theme=github-compact&hide_border=true&area=true&v=1" />
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
