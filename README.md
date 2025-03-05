@@ -59,7 +59,7 @@
 
 <!--
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhssb&show_icons=true&locale=en&layout=compact&v=2" alt="Top Languages" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=saurabhssb&show_icons=true&locale=en&layout=compact&v=1" alt="Top Languages" />
 </p>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhssb&show_icons=true&locale=en&v=2" alt="GitHub Stats" />
