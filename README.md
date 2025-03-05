@@ -65,7 +65,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=saurabhssb&show_icons=true&locale=en&v=1" alt="GitHub Stats" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhssb&v=2" alt="GitHub Streak" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saurabhssb&v=1" alt="GitHub Streak" />
 </p>
 -->
 <!--
