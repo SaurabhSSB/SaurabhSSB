@@ -34,7 +34,7 @@
 
 - ⚡ Fun fact **I'm a firm believer that learning never stops—I'm always trying to improve my skills.**
 
-[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaurabhSSB&theme=merko&custom_title=A%20Month%20of%20Steady%20and%20Consistent%20Contributions%20🚀&hide_border=true&point=FFFFFF&days=30&v=2)](https://github.com/SaurabhSSB)
+[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaurabhSSB&theme=merko&custom_title=A%20Month%20of%20Steady%20and%20Consistent%20Contributions%20🚀&hide_border=true&point=FFFFFF&days=31&v=2)](https://github.com/SaurabhSSB)
 
 <!--[![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=SaurabhSSB&theme=merko&custom_title=The%20Last%20111%20Days:%20A%20Journey%20of%20Consistent%20Contribution!%20⚡&hide_border=true&point=FFFFFF&days=92&v=2)](https://github.com/SaurabhSSB)-->
 
