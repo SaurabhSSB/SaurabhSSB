@@ -9,7 +9,7 @@
 </a>
 
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=saurabhssb&label=Profile%20views&color=0e75b6&style=flat?v=1" alt="saurabhssb" />
+  <img src="https://komarev.com/ghpvc/?username=saurabhssb&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhssb" />
   <img src="https://img.shields.io/github/stars/SaurabhSSB?v=1" alt="GHStars" />
   <img src="https://img.shields.io/github/followers/SaurabhSSB" alt="Followers" />
 </p>
