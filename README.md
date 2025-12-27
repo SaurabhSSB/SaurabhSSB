@@ -89,6 +89,15 @@
 
 <!--https://streak-stats.demolab.com/?user=SaurabhSSB&theme=radical&exclude_days=Sat&theme=radical&v=0-->
 
+| Profile | Languages |
+|--------|-----------|
+| [![Profile](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Professional.webp)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSSB&layout=donut-vertical&theme=radical) |
+
+| Streak | Stats |
+|--------|-------|
+| ![](https://streak-stats.demolab.com?user=SaurabhSSB&theme=radical) | ![](https://github-readme-stats.vercel.app/api?username=SaurabhSSB&show_icons=true&theme=radical&rank_icon=github) |
+
+
 [![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB)
 
 ## **Trail of Contributions**
