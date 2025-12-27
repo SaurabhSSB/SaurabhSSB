@@ -81,7 +81,7 @@
 </div>
 -->
 
-| <a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB"><img src="https://raw.githubusercontent.com/SaurabhSSB/SaurabhSSB/main/Professional.webp" alt="SaurabhSSB" height="350px" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSSB&layout=donut-vertical&theme=radical&v=1" height="350px"/> |
+| <a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB"><img src="https://raw.githubusercontent.com/SaurabhSSB/SaurabhSSB/main/Professional.webp" alt="SaurabhSSB" height="350px" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSSB&layout=donut-vertical&theme=radical&cache_seconds=86400" height="350px"/> |
 |-------------------------------------------------------|-----------------------------------|
 
 | [![SaurabhSSB's GitHub Streak](https://streak-stats.demolab.com?user=SaurabhSSB&theme=radical&v=1)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB) | ![SaurabhSSB's GitHub stats](https://github-readme-stats.vercel.app/api?username=SaurabhSSB&show_icons=true&theme=radical&rank_icon=github&v=1) |
