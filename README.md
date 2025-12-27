@@ -79,7 +79,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSSB&theme=aura&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="36%" /> </br>
   <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=SauarabhSSB" alt="SaurabhSSB" /></a> </p>
 </div>
--->
+->
 
 | <a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB"><img src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Professional.webp" alt="SaurabhSSB" height="350px" /></a> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSSB&layout=donut-vertical&theme=radical&v=1" height="350px"/> |
 |-------------------------------------------------------|-----------------------------------|
@@ -88,6 +88,28 @@
 |-------------------------------------------------------|-----------------------------------|
 
 <!--https://streak-stats.demolab.com/?user=SaurabhSSB&theme=radical&exclude_days=Sat&theme=radical&v=0-->
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://linktr.ee/Saurabh_Singh_Bhandari_SSB">
+        <img src="https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Professional.webp" height="320px"/>
+      </a>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaurabhSSB&layout=donut-vertical&theme=radical"/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://streak-stats.demolab.com?user=SaurabhSSB&theme=radical"/>
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=SaurabhSSB&show_icons=true&theme=radical&rank_icon=github"/>
+    </td>
+  </tr>
+</table>
+
 
 [![logo](https://github.com/SaurabhSSB/SaurabhSSB/blob/main/Banner.webp)](https://linktr.ee/Saurabh_Singh_Bhandari_SSB)
 
